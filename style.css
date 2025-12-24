@@ -180,6 +180,7 @@ header > nav > ul {
   font-size: 1rem;
   letter-spacing: 0.1em;
   cursor: pointer;
+  text-align: center;
 }
 .btn:hover {
   background-color: #ae874c;
@@ -355,5 +356,6 @@ footer p {
     text-align: center;
   }
 }
+
 
 
